@@ -1,7 +1,7 @@
 // src/services/serpApiService.ts
 import axios from 'axios';
 
-const SERP_API_KEY = '9c61a7eedb765deb743a22d76b46f8193ddd4160ed462c36c1e5447fb3c70cfd';
+const SERP_API_KEY = 'SECRETKEY';
 const SERP_API_ENDPOINT = 'https://serpapi.com/search'; // Removed extra spaces and corrected URL
 
 const infoSearchSerpApiService = {
